@@ -1,0 +1,7 @@
+iw.spotify.baseUrl: https://api.spotify.com/v1
+iw.tokenUrl: https://accounts.spotify.com/api/token
+iw.clientId: da2bd8fbd90642d9b321d0b0e38473c0
+iw.clientSecret: 17141ea9f7254524b8d4f1f5514cefe6
+iw.userId: 31gbwyq5jre4s345d3re2nqf2f7i
+
+iw.reqres.baseUrl: https://reqres.in/api/

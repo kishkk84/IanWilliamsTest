@@ -1,0 +1,4 @@
+iw.createPlaylist: /users/{user_id}/playlists
+
+iw.users: /users
+iw.register: /register
